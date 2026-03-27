@@ -1,0 +1,16 @@
+{
+  "required_api_version": "^2.0.0",
+  "name": "AI Fallback Launcher",
+  "description": "Run prompts for OpenClaw",
+  "developer_name": "RagazziLabs",
+  "icon": "images/icon.png",
+  "options": [],
+  "preferences": [
+    {
+      "id": "openclaw_cmd",
+      "type": "input",
+      "name": "Comando OpenClaw",
+      "default_value": "openclaw run"
+    }
+  ]
+}
