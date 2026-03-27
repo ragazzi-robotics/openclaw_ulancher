@@ -1,2 +1,2 @@
-# openclaw_ulancher
-Extension to ULancher run openclow from Linux
+# Openclaw extension for Ulancher
+Forget terminals, use Control+Space to easily run OpenClaw in any time in yout linux 
