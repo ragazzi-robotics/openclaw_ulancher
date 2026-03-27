@@ -4,7 +4,9 @@
   "description": "Run prompts for OpenClaw",
   "developer_name": "RagazziLabs",
   "icon": "images/icon.png",
-  "options": [],
+  "options": {
+    "query_debounce": 0.05
+  }
   "preferences": [
     {
       "id": "openclaw_cmd",
